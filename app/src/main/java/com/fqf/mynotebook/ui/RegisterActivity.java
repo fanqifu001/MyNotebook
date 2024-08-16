@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 
 import androidx.appcompat.widget.Toolbar;
-;
+
 
 import com.fqf.mynotebook.Base.BaseActivity;
 import com.fqf.mynotebook.R;
